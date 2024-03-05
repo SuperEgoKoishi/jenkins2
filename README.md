@@ -10,3 +10,7 @@
 # 3.在Job中配置一个 String 类型的参数，并在构建时打印，查看控制台输出并截图。
 ![image](https://github.com/SuperEgoKoishi/jenkins2/assets/47311214/1e7d30a4-900b-4fc8-8bed-aff6188416db)
 ![image](https://github.com/SuperEgoKoishi/jenkins2/assets/47311214/bb34a756-1eca-4eac-b06d-d73a382b77ae)
+
+# 4.配置邮件或其他通知操作。
+![image](https://github.com/SuperEgoKoishi/jenkins2/assets/47311214/32bba4b8-87e3-4f10-a920-3d81a8effb3c)
+![image](https://github.com/SuperEgoKoishi/jenkins2/assets/47311214/b1011fa6-0864-4c72-a49d-9f9e054c0278)
